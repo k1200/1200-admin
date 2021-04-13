@@ -1,0 +1,8 @@
+// @import './variables.scss';
+// @mixin themify () {
+//   @each $themename , $theme in $themes {
+//         [data-theme = '#{$themename}'] & {
+//             background: map-get($map: $theme, $key: base-color )
+//         }
+//     }
+// }

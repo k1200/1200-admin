@@ -1,0 +1,22 @@
+{
+  "name": "space-table-page",
+  "version": "1.0.3",
+  "description": "space-table-page",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://172.16.163.32/songwei/commoncode.git"
+  },
+  "keywords": [
+    "space",
+    "table"
+  ],
+  "author": "1200",
+  "license": "ISC"
+}

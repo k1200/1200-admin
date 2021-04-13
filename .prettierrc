@@ -1,0 +1,22 @@
+{
+	"printWidth": 120,
+	"tabWidth": 2,
+	"semi": true,
+	"useTabs": true,
+	"singleQuote": true,
+	"trailingComma": "none",
+	"bracketSpacing": true,
+	"jsxBracketSameLine": false,
+	"endOfLine": "auto",
+	"htmlWhitespaceSensitivity": "ignore",
+	"parsers": {
+		".jsx": "flow",
+		".scss": "scss",
+		".ts": "typescript",
+		".less": "css",
+		".vue": "vue",
+		".nvue": "vue",
+		".ux": "vue",
+		".yml": "yaml"
+	}
+}
